@@ -2,8 +2,8 @@
 
 Escribe una función llamada areArraysSame que tome dos arrays como argumentos. Debe devolver verdadero si los dos arrays son iguales (es decir, tienen los mismos números, en el mismo orden) y false si son diferentes.
 
+#pseudocodigo
 
-     #pseudocodigo
 1.  crea una funcion que reciba 2 arreglos como parametros
 2. comprobar si la longitud de los arreglos es diferente
 2.1si nos arreglos no son iguales regresar falso
@@ -13,3 +13,5 @@ Escribe una función llamada areArraysSame que tome dos arrays como argumentos. 
 3.2 si son iguales sigue comprobando uno a uno
 4. regresamos un true
 5. fin :)
+
+![Esta es la imagen del diagrama](diagrama.jpg)
